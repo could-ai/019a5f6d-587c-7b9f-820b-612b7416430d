@@ -455,7 +455,7 @@ class _MergePdfScreenState extends State<MergePdfScreen> {
                   style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
                 ),
         ),
-        if (_isMerging) ..[
+        if (_isMerging) ...[
           const SizedBox(height: 16),
           Container(
             padding: const EdgeInsets.all(16),
